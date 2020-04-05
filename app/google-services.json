@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280719120520",
+    "firebase_url": "https://princetonhive.firebaseio.com",
+    "project_id": "princetonhive",
+    "storage_bucket": "princetonhive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280719120520:android:660ff7d5a45a13122de73d",
+        "android_client_info": {
+          "package_name": "com.example.videouploadactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280719120520-t7is9oma9s931p5fna9iqt22f2a4157d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videouploadactivity",
+            "certificate_hash": "5ff9fe7a8d3a212c441fd043d4035c7efa4718a4"
+          }
+        },
+        {
+          "client_id": "280719120520-de989gi8245i8scbg35gic8nbime8h9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEYG_7tem5RhL2EUkAUP7ACGSptitces"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280719120520-de989gi8245i8scbg35gic8nbime8h9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
